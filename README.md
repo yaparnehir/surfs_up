@@ -8,4 +8,4 @@
 ## Summary
 > In conclusion, we've worked on jupyter notebook with Sqlalchemy to use the databases without connecting and opening a server. It gives users to mobility and ease of access. Quick analysis and determinations can be done easily. After the analysis conclusion can be summarized as the weather of Oahu is good for business for an entire year. This conclusion determined based on checking the June and December summary statistics between the year 2010 and 2017( by the given dataset). Following pictures are the results of analysis. 
 * ![Analysis](/Resources/June.PNG)                 
-* ![Analysis](/Resources/Decemeber.PNG)
+* ![Analysis2](/Resources/December.PNG)
